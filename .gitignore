@@ -176,6 +176,8 @@ Thumbs.db
 # Project specific
 *.h5
 *.hdf5
+emotiondetector.json
+facialemotionmodel.json
 models/
 dataset/
 images/
