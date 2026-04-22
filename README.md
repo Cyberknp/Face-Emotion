@@ -101,8 +101,6 @@ python src/cam_emotion_recognition.py
 ## Results
 
 - Model achieves **X% accuracy** on the FER-2013 validation set.
-- Example confusion matrix:
-  ![Confusion Matrix](notebooks/confusion_matrix.png)
 - [Optional: Add plots, ROC curves, sample predictions, etc.]
 
 ## Contributing
